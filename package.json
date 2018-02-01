@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "author": "Peter Shershov <stelaviv@gmail.com>",
+  "url": "https://github.com/PeterShershov/webpack-noodle-plugin",
   "dependencies": {},
   "devDependencies": {}
 }
