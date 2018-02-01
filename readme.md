@@ -4,12 +4,12 @@ This plugin allows you to run a shell command when a specfic file was changed, a
 
 ## Installation
 ```bash
-`yarn add webpack-noodle-plugin -D`
+yarn add webpack-noodle-plugin -D
 ```
 or
 
 ```bash
-`npm install --save-dev webpack-noodle-plugin`
+npm install --save-dev webpack-noodle-plugin
 ```
 
 ## Development
