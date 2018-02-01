@@ -1,0 +1,9 @@
+{
+  "name": "webpack-noodle-plugin",
+  "version": "1.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Peter Shershov <stelaviv@gmail.com>",
+  "dependencies": {},
+  "devDependencies": {}
+}
