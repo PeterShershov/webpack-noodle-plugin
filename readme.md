@@ -9,7 +9,7 @@ yarn add webpack-noodle-plugin -D
 or
 
 ```bash
-npm install --save-dev webpack-noodle-plugin
+npm i webpack-noodle-plugin -D
 ```
 
 ## Development
