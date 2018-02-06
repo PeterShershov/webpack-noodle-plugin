@@ -22,7 +22,7 @@ const webpackNoodlePlugin = require('webpack-noodle-plugin');
     new webpackNoodlePlugin({
       filename: '<FILE-NAME>',
       command: '<SHELL-COMMAND>'
-    })
+    })]
 ```
 
 ### Options
