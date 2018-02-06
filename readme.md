@@ -26,5 +26,5 @@ const webpackNoodlePlugin = require('webpack-noodle-plugin');
 ```
 
 ### Options
-* `filename: string`: The name of the file to be watched. Example: `myfile.ts`
+* `filename: string`: The name of the file to watch. Example: `myfile.ts`
 * `command`: The shell command that will run once this file was changed. Example: `yarn process`
