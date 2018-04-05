@@ -22,10 +22,10 @@ const webpackNoodlePlugin = require('webpack-noodle-plugin');
     new webpackNoodlePlugin({
       filename: '<FILE-NAME>',
       command: '<SHELL-COMMAND>'
-    })
+    })]
 ```
 
 ### Options
 * `filename: string`: The name of the file to be watched. Example: `myfile.ts`.
-* Files can include the `filename` string as well. Example: `.component.ts`. This will watch the files that include `.component.ts`
+* Files can include the `filename` string as well. Example: `filename: '.component.ts'`. This will watch the files that include `.component.ts`
 * `command`: The shell command that will run once this file was changed. Example: `yarn process`
