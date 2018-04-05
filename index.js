@@ -9,7 +9,7 @@ class webpackNoodlePlugin {
 
   apply(compiler) {
     compiler.plugin('invalid', (filePath) => {
-      if (parse(filePath).base === this.filename) {
+      if (parse(filePath).base.indexOf(this.filename) !== -1) {
         execSync(this.command, { stdio: 'inherit', shell: true })
       }
     })
