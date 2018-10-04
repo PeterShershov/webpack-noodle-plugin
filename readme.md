@@ -1,3 +1,5 @@
+[![npm version](https://badge.fury.io/js/webpack-noodle-plugin.svg)](https://badge.fury.io/js/webpack-noodle-plugin)
+
 # Webpack Noodle Plugin
 
 This plugin allows you to run a shell command when a specfic file was changed, at the end of the build process.
